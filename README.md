@@ -1,7 +1,7 @@
 Workshop: Blockchain for Social Good
 ====================================
 
-Can an intuitive understanding of blockchain increase its use for social good?
+Can an intuitive understanding of blockchain increase its use for social good? Can we progress it in an ethically responsible manner?
 
 Mission
 -------
