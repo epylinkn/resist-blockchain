@@ -1,7 +1,7 @@
 Workshop: Blockchain for Social Good
 ====================================
 
-Thesis: Can an intuitive understanding of blockchain increase its use for social good?
+Can an intuitive understanding of blockchain increase its use for social good?
 
 Mission
 -------
@@ -28,7 +28,7 @@ Intuitive Blockchain
 
 Blockchain is complex. Few people fully understand what's going on. Today, we'll spend time developing an intuitive understanding of the blockchain, that is understanding the blockchain without too much of the gory details.
 
-### Activity: Cryptocurrency (See Expanded Worksheet)
+### Activity: Cryptocurrency ([See Expanded Worksheet](./activities/cryptocurrency.md))
 
 Building blockchain intuition through group activities. Put your computers and phones away, we're going to do this old school. (TODO: Can we really do this without computers? Propagating transactions to nodes might be difficult to do.)
 
